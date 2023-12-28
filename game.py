@@ -9,8 +9,11 @@ for i in range(5):
         print("猜對了")
         break
     else:
-        print("猜錯了")
+        if y>x:
+            print("猜低一點")
+        els:
+            print("猜低一點")
 
-print("完成")
+
    
 
