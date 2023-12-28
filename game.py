@@ -11,7 +11,7 @@ for i in range(5):
     else:
         if y > x:
             print("猜低一點")
-        else: --
+        else:
             print("猜低一點")
 print("123")
 print(123)
