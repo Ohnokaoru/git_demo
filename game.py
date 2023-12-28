@@ -11,6 +11,6 @@ for i in range(5):
     else:
         print("猜錯了")
 
-
+print("完成")
    
 
